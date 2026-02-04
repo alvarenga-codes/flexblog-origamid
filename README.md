@@ -104,6 +104,8 @@ Desenvolvendo este projeto, consolidei conhecimentos em:
 
 Este projeto faz parte do curso **CSS Flexbox** da Origamid.
 
+[![Certificado](https://img.shields.io/badge/Ver%20Certificado-Origamid-orange)](https://www.origamid.com/certificate/ba291699)
+
 ---
 
 ## 👤 Autor
